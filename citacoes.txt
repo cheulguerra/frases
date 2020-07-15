@@ -8,5 +8,7 @@ Trocava toda a minha tecnologia por uma tarde com Sócrates.
 (Steve Jobs)
 
 A primeira regra de qualquer tecnologia utilizada nos negócios é que a automação aplicada a uma operação eficiente aumentará a eficiência. A segunda é que a automação aplicada a uma operação ineficiente aumentará a ineficiência.
-
 (Bill Gates)
+
+A tecnologia só é tecnologia para quem nasceu antes dela ter sido inventada.
+(Alan Kay)
